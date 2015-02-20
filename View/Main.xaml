@@ -1,0 +1,16 @@
+﻿<Window x:Class="bioImagechart.View.Main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:View="clr-namespace:bioImagechart.View"
+        Title="Main" MinWidth="300"
+         SizeToContent="WidthAndHeight">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <View:ImageView Grid.Row="0" Margin="0,0,0,48" Grid.RowSpan="2" />
+        <View:ChartView Grid.Row="1"/>       
+    </Grid>
+</Window>
