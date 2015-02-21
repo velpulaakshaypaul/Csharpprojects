@@ -1,0 +1,52 @@
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\bioImagechart.exe.config
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\bioImagechart.csprojResolveAssemblyReference.cache
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\MainWindow.baml
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\View\Main.baml
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\View\ImageView.baml
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\MainWindow.g.cs
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\View\Main.g.cs
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\View\ImageView.g.cs
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\App.g.cs
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\bioImagechart_MarkupCompile.cache
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\bioImagechart.g.resources
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\bioImagechart.Properties.Resources.resources
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\bioImagechart.csproj.GenerateResource.Cache
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\bioImagechart.exe
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\bioImagechart.pdb
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\bioImagechart.exe
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\bioImagechart.pdb
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\View\ChartView.baml
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\View\ChartView.g.cs
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\bioImagechart_MarkupCompile.lref
+C:\Users\akshay.paul\Documents\Visual Studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\Abt.Controls.SciChart.Wpf.dll
+C:\Users\akshay.paul\Documents\Visual Studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\Abt.Controls.SciChart3D.Wpf.dll
+C:\Users\akshay.paul\Documents\Visual Studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\SharpDX.dll
+C:\Users\akshay.paul\Documents\Visual Studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\akshay.paul\Documents\Visual Studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\SharpDX.Direct3D10.dll
+C:\Users\akshay.paul\Documents\Visual Studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\SharpDX.DXGI.dll
+C:\Users\akshay.paul\Documents\Visual Studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\akshay.paul\Documents\Visual Studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\Abt.Controls.SciChart.Wpf.xml
+C:\Users\akshay.paul\Documents\Visual Studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\Abt.Controls.SciChart3D.Wpf.xml
+C:\Users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\View\FFTView.baml
+C:\Users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\View\FFTView.g.cs
+C:\Users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\bioImagechart_Content.g.cs
+C:\Users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\MathNet.Numerics.dll
+C:\Users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\MathNet.Numerics.IO.dll
+C:\Users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\MathNet.Numerics.pdb
+C:\Users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\MathNet.Numerics.xml
+C:\Users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\MathNet.Numerics.IO.pdb
+C:\Users\akshay.paul\documents\visual studio 2013\Projects\bioImagechart\bioImagechart\bin\Debug\MathNet.Numerics.IO.xml
+C:\Users\akshay.paul\Documents\Visual Studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\View\PhaseView.g.cs
+C:\Users\akshay.paul\Documents\Visual Studio 2013\Projects\bioImagechart\bioImagechart\obj\Debug\View\PhaseView.baml
+F:\biotex_dev-bioimagechart-a2ecca98b200\bioImagechart\bin\Debug\bioImagechart.exe.config
+F:\biotex_dev-bioimagechart-a2ecca98b200\bioImagechart\obj\Debug\bioImagechart.csprojResolveAssemblyReference.cache
+F:\biotex_dev-bioimagechart-a2ecca98b200\bioImagechart\obj\Debug\MainWindow.baml
+F:\biotex_dev-bioimagechart-a2ecca98b200\bioImagechart\obj\Debug\MainWindow.g.cs
+F:\biotex_dev-bioimagechart-a2ecca98b200\bioImagechart\obj\Debug\View\ImageView.g.cs
+F:\biotex_dev-bioimagechart-a2ecca98b200\bioImagechart\obj\Debug\View\Main.g.cs
+F:\biotex_dev-bioimagechart-a2ecca98b200\bioImagechart\obj\Debug\App.g.cs
+F:\biotex_dev-bioimagechart-a2ecca98b200\bioImagechart\obj\Debug\bioImagechart_Content.g.cs
+F:\biotex_dev-bioimagechart-a2ecca98b200\bioImagechart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\biotex_dev-bioimagechart-a2ecca98b200\bioImagechart\obj\Debug\bioImagechart_MarkupCompile.cache
+F:\biotex_dev-bioimagechart-a2ecca98b200\bioImagechart\obj\Debug\bioImagechart_MarkupCompile.lref

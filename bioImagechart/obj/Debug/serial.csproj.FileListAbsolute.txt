@@ -1,0 +1,13 @@
+c:\users\akshay.paul\documents\visual studio 2013\Projects\serial\serial\bin\Debug\serial.exe.config
+c:\users\akshay.paul\documents\visual studio 2013\Projects\serial\serial\bin\Debug\serial.exe
+c:\users\akshay.paul\documents\visual studio 2013\Projects\serial\serial\bin\Debug\serial.pdb
+c:\users\akshay.paul\documents\visual studio 2013\Projects\serial\serial\obj\Debug\serial.csprojResolveAssemblyReference.cache
+c:\users\akshay.paul\documents\visual studio 2013\Projects\serial\serial\obj\Debug\MainWindow.baml
+c:\users\akshay.paul\documents\visual studio 2013\Projects\serial\serial\obj\Debug\MainWindow.g.cs
+c:\users\akshay.paul\documents\visual studio 2013\Projects\serial\serial\obj\Debug\App.g.cs
+c:\users\akshay.paul\documents\visual studio 2013\Projects\serial\serial\obj\Debug\serial_MarkupCompile.cache
+c:\users\akshay.paul\documents\visual studio 2013\Projects\serial\serial\obj\Debug\serial.g.resources
+c:\users\akshay.paul\documents\visual studio 2013\Projects\serial\serial\obj\Debug\serial.Properties.Resources.resources
+c:\users\akshay.paul\documents\visual studio 2013\Projects\serial\serial\obj\Debug\serial.csproj.GenerateResource.Cache
+c:\users\akshay.paul\documents\visual studio 2013\Projects\serial\serial\obj\Debug\serial.exe
+c:\users\akshay.paul\documents\visual studio 2013\Projects\serial\serial\obj\Debug\serial.pdb

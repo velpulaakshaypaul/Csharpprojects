@@ -1,0 +1,7 @@
+[user]
+	name = Akshay
+	email = akshay@biotexmedical.com
+[core]
+	editor = "'C;/Program Files/Notepad++/notepad++.exe' -multiInst -notabar -nosession -noPlugin"
+	autocrlf = true
+	excludesfile = C:\\Users\\akshay.paul\\Documents\\gitignore_global.txt
